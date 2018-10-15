@@ -1,0 +1,5 @@
+name: TelegramMCgateway
+main: ga.mmme.tiki.TelegramMCgateway.Main
+version: ${project.version}
+author: tiki4
+description: Minecraft <-> Telegram gateway

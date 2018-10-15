@@ -1,0 +1,21 @@
+BotToken: 123456:ABCDEFGHIJKLMNOPQRSTUVWXYZ12345678
+ChatID: 123456789
+messages:
+  mc-prefix: §b[Telegram]§f
+  telegram-username: "%s%s: %s"
+  telegram-name-lastname: "%s%s %s: %s"
+  telegram-name: "%s%s: %s"
+tg-messages:
+  connected: 
+    text: "<code>%s se conectó.</code>"
+    #styles 0 = none, 1 = markdown, 2 = html
+    style: 2
+  disconnected: 
+    text: "<code>%s se jué.</code>"
+    style: 2
+  death:
+    text: "<code>%s</code>"
+    style: 2
+  chat:
+    text: "%s: %s"
+    style: 0
